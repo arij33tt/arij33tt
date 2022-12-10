@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  Hey I am a CSE undergraduate from India. I'm currently working on web development projects . I got few of my projects hosted on GitHub. Right Now I'm working on projects of 3D Designing . Also upgrading my tech stack for web development . 
+  Hey I am a CSE undergraduate from India. I'm currently working on web development projects . I got few of my projects hosted on GitHub. Right Now I'm working on projects of React js and Node js. Also upgrading my tech stack for web development . 
 </p>
 
 <p align="left">
