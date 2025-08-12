@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  Hey I am a CSE undergraduate from India. I'm currently working on web development projects . I got few of my projects hosted on GitHub. Right Now I'm working on projects of React js and Node js. Also upgrading my tech stack for web development . 
+  Hey I am a CSE undergraduate from India. I'm currently working on  AI/ML projects. Upgrading my tech stack for AI/ML field . 
 </p>
 
 <p align="left">
@@ -16,11 +16,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">
+- 🔭 I’m currently working on <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" width="20">
 - 🌱 I’m currently learning <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">
-- 👯 I’m looking to collaborate on Front-End
-- 🤔 I’m looking for help with UI-Ux and <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="20">
-- 💬 Ask me about Front-End
+- 👯 I’m looking to collaborate on AI/ML projects.
+- 🤔 I’m looking for help with LLMs.
+- 💬 Ask me about AI/ML
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arijeet-aman/)
  
  
