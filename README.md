@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  Hey I am a CSE undergraduate from India. I'm currently working on  AI/ML projects. Upgrading my tech stack for AI/ML field . 
+  Hey I am a CSE Graduate from India. I'm currently working on  AI/ML projects. Upgrading my tech stack for AI/ML field . 
 </p>
 
 <p align="left">
