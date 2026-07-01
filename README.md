@@ -14,18 +14,42 @@
 <p align="left"> Hi, I'm Arijeet, a Computer Science graduate from India with a passion for building AI-powered applications and scalable backend systems. I specialize in LLMs, Retrieval-Augmented Generation (RAG), AI agents, and Python-based backend development. I'm continuously expanding my expertise in AI engineering by building production-ready projects and exploring the latest advancements in generative AI. </p>
 
 
+
 <h2 align="center">📝 Featured Articles</h2>
 
-<p align="center">
-  <a href="https://medium.com/@arijeetaman/from-tokens-to-meaning-my-first-real-encounter-with-vector-embeddings-f62a1be9489c">
-    <img src="medium2.png" width="600" alt="Medium Article"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-<b>From Tokens to Meaning: My First Real Encounter with Vector Embeddings</b><br>
-A beginner-friendly explanation of vector embeddings, semantic similarity, and why embeddings are fundamental to modern LLMs and RAG systems.
-</p>
+<a href="https://medium.com/@arijeetaman/from-tokens-to-meaning-my-first-real-encounter-with-vector-embeddings-f62a1be9489c">
+    <img src="medium2.png" width="100%" alt="Vector Embeddings"/>
+</a>
+
+<br><br>
+
+<b>From Tokens to Meaning</b>
+
+Understanding vector embeddings and semantic search for modern LLMs.
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://medium.com/@arijeetaman/building-a-tokenizer-for-llms-abaed37b243c">
+    <img src="medium3.png" width="100%" alt="Building a Tokenizer for LLMs"/>
+</a>
+
+<br><br>
+
+<b>Building a Tokenizer for LLMs</b>
+
+Learn how BPE and tokenization work inside modern language models.
+
+</td>
+</tr>
+</table>
+
+
  
 
 
