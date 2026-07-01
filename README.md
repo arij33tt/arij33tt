@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Arijeet+)](https://git.io/typing-svg)
 
-
+<p > AI Engineer | Backend Developer | Building Production-Ready LLM Applications </p>
 <p align="left">
   Hey I am a CSE Graduate from India. I'm currently working on  AI/ML projects. Upgrading my tech stack for AI/ML field . 
 </p>
