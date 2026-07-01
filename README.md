@@ -7,7 +7,7 @@
 
 
 
-
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <p align="center"> <b>AI Engineer | Backend Developer | Building Production-Ready LLM Applications</b> </p>
 
