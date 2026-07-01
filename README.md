@@ -5,15 +5,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Arijeet!" alt="Typing SVG" /></a>
 </div>
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <p align="center"> <b>AI Engineer | Backend Developer | Building Production-Ready LLM Applications</b> </p>
 
 <p align="left"> Hi, I'm Arijeet, a Computer Science graduate from India with a passion for building AI-powered applications and scalable backend systems. I specialize in LLMs, Retrieval-Augmented Generation (RAG), AI agents, and Python-based backend development. I'm continuously expanding my expertise in AI engineering by building production-ready projects and exploring the latest advancements in generative AI. </p>
 
-
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 <h2 align="center">📝 Featured Articles</h2>
 
