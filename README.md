@@ -64,11 +64,14 @@ Learn how BPE and tokenization work inside modern language models.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" width="20">
-- 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on AI/ML projects.
-- 🤔 I’m looking for help with LLMs.
-- 💬 Ask me about AI/ML
+    
+- 🔭 I'm currently building **Production-Ready AI Applications** using **LLMs, RAG, LangChain, LangGraph, and FastAPI**.
+- 🌱 I'm currently learning **AI Agents, Agentic RAG, MCP, AI Evaluation, and Multi-Agent Systems**.
+- 👯 I'm looking to collaborate on **AI Engineering, LLM, RAG, and Open Source Projects**.
+- 🤝 I'm always open to discussing **LLMs, Agentic AI, and Production AI Systems**.
+- 💬 Ask me about **Python, FastAPI, LangChain, LangGraph, LLMs, RAG, AI Agents, and Machine Learning**.
+
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arijeet-aman/)
  
  
