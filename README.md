@@ -88,4 +88,23 @@ Here are some ideas to get you started:
 
 ---
 
-![Arijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=arij33tt&show_icons=true&theme=radical)
+## Let's Connect
+
+I'm always open to collaborating on AI Engineering, LLM, RAG, and Backend projects.
+
+If you'd like to work together or simply chat about AI, feel free to reach out through LinkedIn, X, or Medium.
+
+Thanks for visiting my profile!
+
+<h3 align="center">🤖 End of README...</h3>
+
+<p align="center">
+You reached the end.<br>
+The AI has no more tokens to generate.
+</p>
+
+<p align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/computer-wave.gif" width="220">
+</p>
+
+
