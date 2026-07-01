@@ -13,6 +13,23 @@
 
 <p align="left"> Hi, I'm Arijeet, a Computer Science graduate from India with a passion for building AI-powered applications and scalable backend systems. I specialize in LLMs, Retrieval-Augmented Generation (RAG), AI agents, and Python-based backend development. I'm continuously expanding my expertise in AI engineering by building production-ready projects and exploring the latest advancements in generative AI. </p>
 
+
+<h2 align="center">📝 Featured Articles</h2>
+
+<p align="center">
+  <a href="https://medium.com/@arijeetaman/from-tokens-to-meaning-my-first-real-encounter-with-vector-embeddings-f62a1be9489c">
+    <img src="medium2.png" width="600" alt="Medium Article"/>
+  </a>
+</p>
+
+<p align="center">
+<b>From Tokens to Meaning: My First Real Encounter with Vector Embeddings</b><br>
+A beginner-friendly explanation of vector embeddings, semantic similarity, and why embeddings are fundamental to modern LLMs and RAG systems.
+</p>
+ 
+
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arij33tt&style=for-the-badge&color=blue" />
   <a href="https://github.com/vinij-03?tab=followers">
